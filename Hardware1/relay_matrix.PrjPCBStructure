@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=relay_matrix.SchDoc|Designator=Drivers|SchDesignator=Drivers|FileName=drivers.SchDoc|SymbolType=Normal|RawFileName=drivers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=relay_matrix.SchDoc|Designator=Relays0|SchDesignator=Relays0|FileName=relays0.SchDoc|SymbolType=Normal|RawFileName=relays0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=relay_matrix.SchDoc|Designator=Relays2|SchDesignator=Relays2|FileName=relays2.SchDoc|SymbolType=Normal|RawFileName=relays2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=relay_matrix.SchDoc|Designator=Relays3|SchDesignator=Relays3|FileName=relays3.SchDoc|SymbolType=Normal|RawFileName=relays3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=relay_matrix.SchDoc|Designator=Relys1|SchDesignator=Relys1|FileName=relays1.SchDoc|SymbolType=Normal|RawFileName=relays1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=relay_matrix.SchDoc
